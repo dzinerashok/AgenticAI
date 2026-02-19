@@ -16,7 +16,7 @@ def get_user_personal_finance_details() -> Dict:
             "Entertainment"       :5000,
             "Shopping and Travel" :5000
         },
-        "savings": 10000
+        "savings": 20000
     }
 
 finance_assistance_agent = LlmAgent(
